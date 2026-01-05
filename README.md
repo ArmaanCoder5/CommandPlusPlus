@@ -1,8 +1,26 @@
-# Introduction and Steps
+# Command++ Introduction
+
+Command++ is a smart command-line utility that upgrades Windows Command Prompt
+and Windows Terminal with command history, snippets, aliases, and system tools —
+without replacing your shell.
+
+If you like power-user features but still want CMD/Terminal to feel familiar,
+Command++ is for you.
+
+## Why Command++?
+
+- 🔁 Persistent command history (`:s`)
+- ⚡ Snippets & aliases (`!name`)
+- 🧠 Smart fetch for apps
+- 🖥️ System info at a glance (`cmdpp fsys`)
+- 🪶 Lightweight, Python-based, no shell replacement
+
+
+## Installation
 
 Command++ is a command utility program that upgrades Windows Command Prompt and the new Windows Terminal, The steps to download Command++ are:
 
-1. Download Python if you haven't already *(3.13 is preferred)*
+1. Download Python if you haven't already *(3.13+ is preferred)*
 <img width="1360" height="768" alt="Downloading Python - Command++" src="https://github.com/user-attachments/assets/de632b09-471a-4b79-a4c9-d576bc859429" />
 👆 This step is very important for running Command++
 
